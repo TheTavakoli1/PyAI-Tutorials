@@ -1,6 +1,6 @@
 # for loop
 
-# for i in range(1, 10, 1):
+# for i in range(s, s, s):
 #     print(i)
 
 # i = iterator
