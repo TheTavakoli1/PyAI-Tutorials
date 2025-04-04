@@ -1,3 +1,4 @@
+# Divisible by 3 or 5
 for i in range(1, 11):
     number = int(input(f'Enter number {i}: '))
     if number % 3 == 0 or number % 5 == 0:
